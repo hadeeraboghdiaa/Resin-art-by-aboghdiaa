@@ -1,0 +1,96 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Resin_art by aboghdiaa </title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header>
+		<h1> Resin_art by aboghdiaa</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Home </a> </b> </u></li>
+				<li><a href="#">Call us:0109544****</a></li>
+			</ul>
+
+
+<form action="" method="" >
+<p> name:/
+<input type="text"
+name="your name" />
+</p>
+<p> location:/
+<input type="text" />
+
+<p> email:/
+<input type="email"
+name="@.com />
+</p>
+<p> phone:/
+<input type="phone"
+name="+201xxxxxxxxx />
+</p>
+<p> your order:/
+<input type="text"
+name="put your order here" maxlength="100" />
+</p>
+</p>
+</form>
+
+
+		</nav>
+	</header>
+	<main>
+		<section>
+			<h1>Home decor</h1>
+			<p></p>
+		</section>
+		<section>
+			<h4>get free shipping on all products</h4>
+                         <h6>enjoy online shopping</h6>
+			<ul>
+				<li> Resha design</li>
+<img src="photo1.jpeg" height="200px"  width="200px"  alt="oops, image doesn't load">
+				<li>Ktb_ktab design</li>
+<img src="photo2.jpeg" height="200px"  width="200px"  alt="oops, image doesn't load">
+				<li> smart design</li>
+<img src="photo3.jpeg" height="200px"  width="200px"  alt="oops, image doesn't load">
+                                <li>mirror design</li>
+<img src="photoi4.jpeg" height="200px"  width="200px" alt="oops, image doesn't load">
+				<li> clock design</li>
+<img src="photo5.jpeg" height="200px"  width="200px"  alt="oops, image doesn't load">
+				<li>engagemant design</li>
+<img src="photo6.jpeg" height="200px"  width="200px"  alt="oops, image doesn't load">
+                                <li> flowers design with gold handles</li>
+<img src="photo7.jpeg" height="200px"  width="200px"  alt="oops, image doesn't load">
+				<li> design with gold handles</li>
+<img src="photo8.jpeg" height="200px"  width="200px"  alt="oops, image doesn't load">
+				
+			</ul>
+<form action="" method="" >
+<p> customize your order:/
+<input type="text"
+name=" any design you want is available" maxlength="100" />
+</p>
+<p> feedback:/
+<input type="text"
+name="we hope you like our products" maxlength="100" />
+</p>
+</form>
+		
+<p> follow for more... </ul>
+<a href=https://instagram.com/resin_art_by_aboghdiaa?igshid=MTIyMzRjYmRlZg==>
+instagram page </a>			
+</p>
+
+
+</section>
+	</main>
+	<footer>
+		<p> Thank you for time, Hope to see you again</p>
+<p> Any design you imagine is available, Order Now  </p>
+	</footer>
+	<script> alert('NOW, you can make your order easily')</script>
+</body>
+</html>
